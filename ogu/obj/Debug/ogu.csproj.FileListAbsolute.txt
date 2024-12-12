@@ -1,0 +1,13 @@
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.csproj.AssemblyReference.cache
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.Form1.resources
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.Properties.Resources.resources
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.csproj.GenerateResource.cache
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.csproj.CoreCompileInputs.cache
+C:\Users\E\source\repos\ogu\ogu\bin\Debug\ogu.exe.config
+C:\Users\E\source\repos\ogu\ogu\bin\Debug\ogu.exe
+C:\Users\E\source\repos\ogu\ogu\bin\Debug\ogu.pdb
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.exe
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.pdb
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.FormOgrenci.resources
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.FormOgretmen.resources
+C:\Users\E\source\repos\ogu\ogu\obj\Debug\ogu.FormMemur.resources
